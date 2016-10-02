@@ -4,6 +4,7 @@
 
 <p>A notable aspect of this work is that it make extensive use of a computation cluster running the Sun Grid Engine.  This was available at the Federal Research Institute WSL, in Birmensdorf, Switzerland.</p>
 
-<p>The draft report in English and all the associated graphics and tables are available on my Google Drive account <a href="https://drive.google.com/drive/folders/0B5PrX6jthQFATW41NEozM1hjNkU">here</a></p>
+<p>The draft report in English and all the associated graphics and tables are available on my Google Drive account <a href="https://docs.google.com/document/d/1btAF3GJLfqPeUWwBjhnh0Wjtym27NmZkezLpbcOsvXw/edit?usp=sharing">here</a></p>
 
-<p>20.09.2016  Upload R scripts for birds.</p>
+<p>20.09.2016  Upload R scripts for birds.
+02.10.2016  Corrected link for report</p>
