@@ -6,5 +6,7 @@
 
 <p>The draft report in English and all the associated graphics and tables are available on my Google Drive account <a href="https://drive.google.com/drive/folders/0B5PrX6jthQFANmFqMjlGQmRaRUk?usp=sharing">here</a></p>
 
+<p>To go straight to just the figures, click <a href="https://drive.google.com/open?id=0B5PrX6jthQFAdTZPdGpFTWl1SWc">here</a></p>
+
 <p>20.09.2016  Upload R scripts for birds.
 02.10.2016  Corrected link for report and graphics directory</p>
